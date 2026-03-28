@@ -1,0 +1,6 @@
+gradio
+pymupdf
+pandas
+nltk
+fpdf2
+openpyxl
